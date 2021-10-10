@@ -1,5 +1,6 @@
 # gistic2
-gistic2下载及安装
+gistic2下载及安装  
+
 mkdir GISTIC2
 mv GISTIC_2_0_23.tar.gz GISTIC2/ && cd GISTIC2/
 tar zxf GISTIC_2_0_23.tar.gz
